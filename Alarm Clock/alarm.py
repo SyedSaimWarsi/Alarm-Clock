@@ -1,4 +1,3 @@
-# Team Members : Noor Ul Huda (Team Leader), Shumaila Basit
 # Alarm Clock
 import time
 import tkinter as tk
